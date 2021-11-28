@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Bachelor's"
       section: bachelors
-    - title: "Masters"
+    - title: "Master's"
       section: masters
     - title: "Present"
       section: present     
