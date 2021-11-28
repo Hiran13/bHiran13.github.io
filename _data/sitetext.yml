@@ -11,25 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to my portfolio!
+    text: I'm Hiran Suthar ("he·run")
     button: Tell Me More
-    buttonlink: "#services"
-
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+    buttonlink: "#about"
 
   portfolio:
     title: "Portfolio"
@@ -39,26 +24,26 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Academics & Work"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Bachelor's"
+        year: "2014-2017"
+        desc: "I graduated from K.B. Institute of Pharmaceutical Education and Research in 2017 with a Bachelor in Pharmacy degree. During my four year studying there, I learnt a variety of different subjects such as Pharmaceutical formulations, Chemistry, Pharmacognosy, Pharmacology and Quality Analysis. For my final year elective course, I choose Good Clinical Practices and as part of the course, undertook a 6 month observational clinical study on patients with Type 2 Diabetes. It was here that I first got exposed to Clinical Research and enjoyed the entire process from planning the protocol to executing it."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Master's"
+        year: "2017-2019"
+        desc: "After my Bachelor's in Pharmacy, I obtained a Master's in Pharmacology from L.M. College of Pharmacy in 2019. During my two years there, I conducted one year of pre-clinical research work towards my dissertation. The area of work was cognitive deficits observed in Schizophrenia and I utilized rats for my animal experiments. I learned valuable research skills such as conducting review of literature, hypothesis development planning a protocol, scheduling experiments, ethics committee approvals, responsible conduct of research and result analysis. Individual projects also helped me hone necessary soft skills such as communication skills, time management, prioritization, planning and quality by design."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Present"
+        year: "2021"
+        desc: "Currently, I am working as a Pharmacy Assistant for almost two years now at a busy retail pharmacy. Working with increased volume due to pandemic, the work posed some unique challenges but was also a learning opportunity. I perform a variety of duties here such as processing prescriptions, inventory management, process recalls, follow-ups with patients and other clients, organize and support vaccination clinics. As a pharmacy that administered COVID-19 vaccines, I also got exposure to the provincial vaccine management database software called CovaxOn. It provided me with an opportunity to explore Canadian Healthcare from an integral point."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt: 
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
@@ -69,9 +54,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "About Me"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "I am an international Pharmacy graduate from India. I'm currently a student at Seneca College, studying towards obtaining my Graduate Certificate in Clinical Research. I'm expected to graduate in 2022, and look forward to exciting opportunities to jump-start a career in Clinical Research as a Clinical Research Associate."
     section: about
 
   clients:
